@@ -1,4 +1,5 @@
 # ENSG : Cours de cartographie et statistiques, L1 PRO
+
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Logo-ENSG-couleur-2023.svg" alt="Logo ENSG" width="200"/>
 </p>
@@ -19,23 +20,23 @@ Ce cours est destiné aux étudiants de l'ENSG, Licence Professionnelle 1ère an
 ## Plan du cours
 
 ### Introduction
-   - [Cours : LPRO_Cours_0_Intro.pdf](https://github.com/fbxyz/ENSG_L1PRO/blob/master/Cours/pdf/LPRO_Cours_0_Intro.pdf)
+   - <a href="https://github.com/fbxyz/ENSG_L1PRO/blob/master/Cours/pdf/LPRO_Cours_0_Intro.pdf" target="_blank">Cours : LPRO_Cours_0_Intro.pdf</a>
 
 ### 1. Rappel du vocabulaire en statistique
-   - [Cours : LPRO_Cours_1_stat.pdf](https://github.com/fbxyz/ENSG_L1PRO/blob/master/Cours/pdf/LPRO_Cours_1_stat.pdf)
-   - [TD : LPRO_TD_1_stat.pdf](https://github.com/fbxyz/ENSG_L1PRO/blob/master/Cours/pdf/LPRO_TD_1_stat.pdf)
+   - <a href="https://github.com/fbxyz/ENSG_L1PRO/blob/master/Cours/pdf/LPRO_Cours_1_stat.pdf" target="_blank">Cours : LPRO_Cours_1_stat.pdf</a>
+   - <a href="https://github.com/fbxyz/ENSG_L1PRO/blob/master/Cours/pdf/LPRO_TD_1_stat.pdf" target="_blank">TD : LPRO_TD_1_stat.pdf</a>
 
 ### 2. Analyse univariée : Méthodes et outils
-   - [Cours : LPRO_Cours_2_univ.pdf](https://github.com/fbxyz/ENSG_L1PRO/blob/master/Cours/pdf/LPRO_Cours_2_univ.pdf)
-   - [TD : LPRO_TD_2_univ.pdf](https://github.com/fbxyz/ENSG_L1PRO/blob/master/Cours/pdf/LPRO_TD_2_univ.pdf)
+   - <a href="https://github.com/fbxyz/ENSG_L1PRO/blob/master/Cours/pdf/LPRO_Cours_2_univ.pdf" target="_blank">Cours : LPRO_Cours_2_univ.pdf</a>
+   - <a href="https://github.com/fbxyz/ENSG_L1PRO/blob/master/Cours/pdf/LPRO_TD_2_univ.pdf" target="_blank">TD : LPRO_TD_2_univ.pdf</a>
 
 ### 3. Méthodes de discrétisation en cartographie
-   - [Cours : LPRO_Cours_3_disc.pdf](https://github.com/fbxyz/ENSG_L1PRO/blob/master/Cours/pdf/LPRO_Cours_3_disc.pdf)
-   - [TD : LPRO_TD_3_disc.pdf](https://github.com/fbxyz/ENSG_L1PRO/blob/master/Cours/pdf/LPRO_TD_3_disc.pdf)
+   - <a href="https://github.com/fbxyz/ENSG_L1PRO/blob/master/Cours/pdf/LPRO_Cours_3_disc.pdf" target="_blank">Cours : LPRO_Cours_3_disc.pdf</a>
+   - <a href="https://github.com/fbxyz/ENSG_L1PRO/blob/master/Cours/pdf/LPRO_TD_3_disc.pdf" target="_blank">TD : LPRO_TD_3_disc.pdf</a>
 
 ### 4. Analyse bivariée : la corrélation
-   - [Cours : LPRO_Cours_4_corr.pdf](https://github.com/fbxyz/ENSG_L1PRO/blob/master/Cours/pdf/LPRO_Cours_4_corr.pdf)
-   - [TD : LPRO_TD_4_corr.pdf](https://github.com/fbxyz/ENSG_L1PRO/blob/master/Cours/pdf/LPRO_TD_4_corr.pdf)
+   - <a href="https://github.com/fbxyz/ENSG_L1PRO/blob/master/Cours/pdf/LPRO_Cours_4_corr.pdf" target="_blank">Cours : LPRO_Cours_4_corr.pdf</a>
+   - <a href="https://github.com/fbxyz/ENSG_L1PRO/blob/master/Cours/pdf/LPRO_TD_4_corr.pdf" target="_blank">TD : LPRO_TD_4_corr.pdf</a>
 
 ## Travaux Dirigés (TD) : Outils utilisés
 
@@ -43,13 +44,13 @@ Ce cours est destiné aux étudiants de l'ENSG, Licence Professionnelle 1ère an
 
 Pour les TD, nous utiliserons **Orange Data Mining**, un logiciel d'exploration de données qui permet d'analyser et de visualiser les données de manière simple et intuitive.
 
-- Téléchargez Orange ici : [Orange Data Mining - Download](https://orangedatamining.com/download/)
+- Téléchargez Orange ici : <a href="https://orangedatamining.com/download/" target="_blank">Orange Data Mining - Download</a>
 
 ### Magrit
 
 **Magrit** est un outil en ligne gratuit pour la cartographie statistique. Nous l'utiliserons pour réaliser des visualisations cartographiques à partir de données statistiques.
 
-- Accédez à Magrit ici : [Magrit](https://magrit.cnrs.fr/)
+- Accédez à Magrit ici : <a href="https://magrit.cnrs.fr/" target="_blank">Magrit</a>
 
 ## Public visé
 
@@ -62,4 +63,3 @@ Aucun prérequis particulier n'est nécessaire, le cours est conçu pour les dé
 ## Format
 
 Le cours alterne entre des séances théoriques et des séances pratiques sous forme de TD afin de favoriser une approche concrète et appliquée.
-
