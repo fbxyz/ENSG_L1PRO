@@ -14,9 +14,14 @@ Ce cours est destiné aux étudiants de l'ENSG, Licence Professionnelle 1ère an
 - **Séances de TD pratiques** : Des travaux dirigés permettent aux étudiants de mettre en pratique les connaissances acquises à travers des exercices concrets.
 
 ## Plan du cours
+Introduction : 
 
 1. **Rappel du vocabulaire en statistique**
+   - cours : 
+   - TD : 
+
 2. **Analyse univariée : Méthodes et outils**
+   - cours : 
 3. **Méthodes de discrétisation en cartographie**
 4. **Analyse bivariée : la corrélation**
 5. **Analyse bivariée : Régression linéaire**
