@@ -62,7 +62,7 @@ sdp <- function(x) sqrt(mean((x-mean(x))^2))
 
 class: center, middle, inverse, title-slide, animated, fadeIn
 # Analyse de données L3 `r annee`
-# La régression linéaire et la régression multiple<br /> <br />
+# Cours n°5- La régression linéaire<br /> <br />
 ### Florian Bayer
 
 <div class="my-footer"><span>ENSG - Licence Pro `r annee` : analyse de données - Florian Bayer</span></div> 

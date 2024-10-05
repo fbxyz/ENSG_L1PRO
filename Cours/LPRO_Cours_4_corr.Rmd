@@ -54,7 +54,7 @@ sdp <- function(x) sqrt(mean((x-mean(x))^2))
 
 class: center, middle, inverse, title-slide, animated, fadeIn
 # Analyse de données L3 `r annee`
-# Cours n°3- La corrélation<br /> <br />
+# Cours n°4- La corrélation<br /> <br />
 ### Florian Bayer
 
 

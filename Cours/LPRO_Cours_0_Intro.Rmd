@@ -75,14 +75,13 @@ class: animated, fadeIn
 class: animated, fadeIn
 ##  Contenu de l’enseignement
 <div class="my-footer"><span>ENSG - Licence Pro `r annee` : analyse de données - Florian Bayer</span></div> 
+- **Acquérir les bonnes pratiques de la démarche scientifique** : Introduction aux méthodes rigoureuses de recherche et d'analyse scientifique.
+- **Les statistiques appliquées à la cartographie** : Compréhension des concepts statistiques et de leur utilisation pour l'analyse et la représentation géographique des données.
+- **Principes et méthodes de traitement en analyse de données** : Initiation aux bases de l'analyse de données et l'interprétation des résultats. La collecte des données n'est pas abordée.
+- **Analyse univariée et bivariée** sur des données quantitatives : Exploration des techniques d'analyse de variables uniques et des relations entre deux variables (corrélation).
+- **Méthodes de discrétisation** : Techniques de regroupement des données en classes pour une meilleure interprétation visuelle.
+- **Séances de TD pratiques** : Des travaux dirigés permettent aux étudiants de mettre en pratique les connaissances acquises à travers des exercices concrets.
 
-
-- Acquérir les **bonnes pratiques** de la démarche scientifique
-- Les statistiques appliquées à la cartographie
-- Principes et méthodes de traitement en **analyse de données**
-- Analyse univariée et bivariée
-- Méthodes de discrétisation
-- Avec des séances de TD pour mettre en pratique les acquis
 
 
 ---
@@ -99,6 +98,7 @@ class: animated, fadeIn
 - Distinguer les types de **variables**, de **distributions**. **Décrire** une série de données, utiliser les **méthodes appropriées** à chaque type de données.
 - Connaître les **principes** et **méthodes** de traitement et d’analyse de données.
 - Maîtriser différentes méthodes de **représentation** de l’information statistique en géographie (notamment graphiques et cartographiques).
+- N.B. L'analyse univariée est une étape obligatoire avant toutes les analyses statistiques les plus complexes.
 
 .center-img[
 ```{r echo=FALSE, out.width="90%"}
@@ -106,8 +106,23 @@ knitr::include_graphics("./assets/images/1_Intro/distrib.png")
 ```
 ]
 
+<div class="my-footer"><span>ENSG - Licence Pro `r annee` : analyse de données - Florian Bayer</span></div> 
+
+---
+class: animated, fadeIn
+## Discrétisation
+
+En fonction de votre analyse univariée, de vos objectifs et de votre public :
+- Appliquer la méthode de discrétisation la plus adaptée
+
+.center-img[
+```{r echo=FALSE, out.width="100%"}
+knitr::include_graphics("./assets/images/1_Intro/discret.png")
+```
+]
 
 <div class="my-footer"><span>ENSG - Licence Pro `r annee` : analyse de données - Florian Bayer</span></div> 
+
 
 ---
 class: animated, fadeIn
@@ -153,7 +168,7 @@ knitr::include_graphics("./assets/images/1_Intro/stat2.png")
 
 ---
 class: animated, fadeIn
-## Exemple d'application
+## Exemple (non abordé cette année)
 <div style="display:table-cell; vertical-align:middle; horizontal-align:center">
 
 .center-img[
@@ -166,65 +181,11 @@ knitr::include_graphics("./assets/images/1_Intro/stat3.png")
 
 ---
 class: animated, fadeIn
-## Exemples de travaux -1
-
-.zoom[ .pull-left[
-```{r echo=FALSE, out.width="100%"}
-knitr::include_graphics("./assets/images/1_Intro/Corrélation.JPG")
-```
-]
-
-.pull-right[
-```{r echo=FALSE, out.width="100%"}
-knitr::include_graphics("./assets/images/1_Intro/diagcorr.png")
-```
-]]
-
-<div class="my-footer"><span>ENSG - Licence Pro `r annee` : analyse de données - Florian Bayer</span></div> 
-
----
-class: animated, fadeIn
-## Exemples de travaux -2
+## Exemples (non abordé cette année)
 
 .center-img[
 ```{r echo=FALSE, out.width="100%"}
 knitr::include_graphics("./assets/images/1_Intro/bretagne_acp.png")
-```
-]
-
-<div class="my-footer"><span>ENSG - Licence Pro `r annee` : analyse de données - Florian Bayer</span></div> 
-
----
-class: animated, fadeIn
-## Exemples de travaux -3
-
-.center-img[
-```{r echo=FALSE, out.width="45%"}
-knitr::include_graphics("./assets/images/1_Intro/ACP RD.PNG")
-```
-]
-
-<div class="my-footer"><span>ENSG - Licence Pro `r annee` : analyse de données - Florian Bayer</span></div> 
-
----
-class: animated, fadeIn
-## Exemples de travaux -4
-
-.center-img[
-```{r echo=FALSE, out.width="70%"}
-knitr::include_graphics("./assets/images/1_Intro/acp_1.png")
-```
-]
-
-<div class="my-footer"><span>ENSG - Licence Pro `r annee` : analyse de données - Florian Bayer</span></div> 
-
----
-class: animated, fadeIn
-## Exemples de travaux -4
-
-.center-img[
-```{r echo=FALSE, out.width="90%"}
-knitr::include_graphics("./assets/images/1_Intro/acp_carte.png")
 ```
 ]
 
