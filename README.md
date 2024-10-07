@@ -38,7 +38,10 @@ Ce cours est destiné aux étudiants de l'ENSG, Licence Professionnelle 1ère an
    - [TD : LPRO_TD_4_corr.pdf](https://github.com/fbxyz/ENSG_L1PRO/blob/master/Cours/pdf/LPRO_TD_4_corr.pdf)
 
 ## Travaux Dirigés (TD) : Outils utilisés
-
+  - données :
+  - [data Excel](https://github.com/fbxyz/ENSG_L1PRO/blob/master/Cours/data/hdi-edu.xlsx)
+  - [data CSV](https://github.com/fbxyz/ENSG_L1PRO/blob/master/Cours/data/hdi-edu.csv))
+    
 ### Orange Data Mining
 
 Pour les TD, nous utiliserons **Orange Data Mining**, un logiciel d'exploration de données qui permet d'analyser et de visualiser les données de manière simple et intuitive.
