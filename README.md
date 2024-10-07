@@ -37,10 +37,11 @@ Ce cours est destiné aux étudiants de l'ENSG, Licence Professionnelle 1ère an
    - [Cours : LPRO_Cours_4_corr.pdf](https://github.com/fbxyz/ENSG_L1PRO/blob/master/Cours/pdf/LPRO_Cours_4_corr.pdf)
    - [TD : LPRO_TD_4_corr.pdf](https://github.com/fbxyz/ENSG_L1PRO/blob/master/Cours/pdf/LPRO_TD_4_corr.pdf)
 
-## Travaux Dirigés (TD) : Outils utilisés
-  - données :
+## Travaux Dirigés (TD) : Données et outils utilisés
+### Données 
+A télécharger (download raw file)
   - [data Excel](https://github.com/fbxyz/ENSG_L1PRO/blob/master/Cours/data/hdi-edu.xlsx)
-  - [data CSV](https://github.com/fbxyz/ENSG_L1PRO/blob/master/Cours/data/hdi-edu.csv))
+  - [data CSV](https://github.com/fbxyz/ENSG_L1PRO/blob/master/Cours/data/hdi-edu.csv)
     
 ### Orange Data Mining
 
