@@ -49,6 +49,13 @@ Pour les TD, nous utiliserons **Orange Data Mining**, un logiciel d'exploration 
 
 - Téléchargez Orange ici : [Orange Data Mining - Download](https://orangedatamining.com/download/)
 
+Ou, dans miniforge prompt / conda prompt :
+```
+conda create -n orange -y
+conda activate orange
+conda install orange3 -y
+```
+
 ### Magrit
 
 **Magrit** est un outil en ligne gratuit pour la cartographie statistique. Nous l'utiliserons pour réaliser des visualisations cartographiques à partir de données statistiques.
