@@ -33,6 +33,11 @@ Ce cours est destiné aux étudiants de l'ENSG, Licence Professionnelle 1ère an
    - [Cours : LPRO_Cours_3_disc.pdf](https://github.com/fbxyz/ENSG_L1PRO/blob/master/Cours/pdf/LPRO_Cours_3_disc.pdf)
    - [TD : LPRO_TD_3_disc.pdf](https://github.com/fbxyz/ENSG_L1PRO/blob/master/Cours/pdf/LPRO_TD_3_disc.pdf)
 
+### 4. Analyse bivariée : test du chi2
+   - [Cours : LPRO_Cours_4_chi2.pdf](https://github.com/fbxyz/ENSG_L1PRO/blob/master/Cours/pdf/LPRO_Cours_4_chi2.pdf)
+   - [TD : LPRO_TD_4_chi2.pdf](https://github.com/fbxyz/ENSG_L1PRO/blob/master/Cours/pdf/LPRO_TD_4_chi2.pdf)
+   - [TD : fichier Excel](https://github.com/fbxyz/ENSG_L1PRO/blob/master/Cours/data/TD4_chi2_donnee.xls)
+
 ### 4. Analyse bivariée : la corrélation
    - [Cours : LPRO_Cours_4_corr.pdf](https://github.com/fbxyz/ENSG_L1PRO/blob/master/Cours/pdf/LPRO_Cours_4_corr.pdf)
    - [TD : LPRO_TD_4_corr.pdf](https://github.com/fbxyz/ENSG_L1PRO/blob/master/Cours/pdf/LPRO_TD_4_corr.pdf)
